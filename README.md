@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GestureVoice AI ✋🎤
 
 ### AI-Powered Touchless Computer Control Using Hand Gestures and Voice Commands
@@ -233,3 +234,6 @@ Developed as a **three-member hackathon project**. Add team member names, roles,
 ---
 
 **GestureVoice AI — Control without touch.**
+=======
+# GestureVoice-AI
+>>>>>>> db48023e1e1c9a1a2dcc85d1667f9f916c5d2084
